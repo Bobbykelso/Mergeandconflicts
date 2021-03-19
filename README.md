@@ -1,4 +1,4 @@
-# Mergeandconflicts
+# LOCAL
 
 J'apprend a réparer les erreurs de conflits ! 
 &
